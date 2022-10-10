@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ian A. Silver
 - 👀 I’m interested in Applied Statistics and Data Simulations
-- 📫 You can reach me at silveria@rowan.edu
+- 📫 You can reach me at isilver@rti.org
 
 <!---
 ianasilver/ianasilver is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
